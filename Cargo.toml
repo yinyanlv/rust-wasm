@@ -1,0 +1,9 @@
+[package]
+name = "rust-wasm"
+version = "0.1.0"
+authors = ["yinyanlv <yanlv.yin@gmail.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
