@@ -1,1 +1,1 @@
-## rust web assembly
+## rust WebAssembly
